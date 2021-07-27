@@ -1,6 +1,6 @@
 # twitwicat
 
-Twitwicat est un projet Node.js qui publie automatiquement tous les 24 heures, une photo d'un chat mignon sous forme de Twitter
+Twitwicat est un projet Node.js qui publie automatiquement tous les 24 heures, une photo d'un chat mignon sous forme de Tweet
 Vous pouvez y trouver un aperçu sur le réseau : https://twitter.com/dose2chat
 
 # Comment ça marche ?
